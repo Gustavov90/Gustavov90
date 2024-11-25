@@ -1,0 +1,6 @@
+- 👋 Hey there! I’m Gustavo Vargas 
+- 🐍 Python is my jam – from automating tasks to building cool apps.  
+- 🌱 Currently mastering the art of turning code into magic (a.k.a. software packaging).  
+- 🎯 Let’s team up to create something awesome – especially if it involves Python!  
+- 📫 Find me at gustavovargas.90@gmail.com  
+- 🕹️ Fun fact: I once wrote a script to pick my next movie. Spoiler: It’s always sci-fi!  
